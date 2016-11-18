@@ -1,0 +1,10 @@
+test=true
+##�����ʼ��ķ�������һ�㲻���޸�
+host=smtp.exmail.qq.com
+nick=Care病历库
+##�����ʼ�����֤�ʺ�
+auth_name=shangwu@caredsp.com
+##�������룬��auth_name��Ӧ
+auth_pass=Doumob2016
+##��˾�����׺
+mail_suffix=@doumob.com

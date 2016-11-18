@@ -1,0 +1,11 @@
+发送失败，下标1015,邮箱:050041 
+发送失败，下标1016,邮箱:1@4610120.com
+发送失败，下标1036,邮箱:tlzy@zj001.net QQ:895214616
+发送失败，下标1041,邮箱:info＠beiyuanhospital.com 
+发送失败，下标1045,邮箱:323900 
+发送失败，下标1070,邮箱:xinli@chemn.com，xinli-hp@chemn.com
+发送失败，下标1089,邮箱:shenzhen@emss.cn 、sz120@163.net
+发送失败，下标1091,邮箱:lly-29@tom.com、conbose@qianlong.com 
+发送失败，下标1119,邮箱:131jkk@163
+发送失败，下标1130,邮箱:tsjsbyy@163.com tsjsbyy@public.lz.gs.cn
+发送失败，下标1184,邮箱:baidu.dykf120.com
